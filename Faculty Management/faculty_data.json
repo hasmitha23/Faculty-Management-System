@@ -1,0 +1,18 @@
+{
+    "A101": {
+        "name": "Prof.Jahnavi",
+        "department": "Aiml",
+        "courses": [
+            "Python",
+            "Java"
+        ]
+    },
+    "A102": {
+        "name": "Prof.Sharanya",
+        "department": "Cse",
+        "courses": [
+            "Java",
+            "C++"
+        ]
+    }
+}
